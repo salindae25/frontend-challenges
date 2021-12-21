@@ -22,4 +22,5 @@
   hover:bg-job-cyan-500 hover:text-job-cyan-200 cursor-pointer
 
 "
-	on:click|preventDefault="{onTagClick}">{text}</button>
+	on:click|preventDefault="{onTagClick}">{text}</button
+>

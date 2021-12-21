@@ -78,7 +78,8 @@
   md:gap-4 md:mt-10 md:w-5/6
   w-screen
   mb-10
-  ">
+  "
+	>
 		{#await promise}
 			<div class="border border-blue-300 shadow rounded-md p-4  w-full ">
 				<div class="animate-pulse flex space-x-4">

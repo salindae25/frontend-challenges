@@ -15,3 +15,27 @@ interface Job {
 	languages: string[];
 	tools: string[];
 }
+
+interface CommentUser {
+	image: {
+		png: string;
+		webp: string;
+	};
+	username: string;
+}
+interface CommentReplies {
+	id: number;
+	content: string;
+	createdAt: string;
+	score: number;
+	replyingTo: string;
+	user: CommentUser;
+}
+interface FMComment {
+	id: number;
+	content: string;
+	createdAt: string;
+	score: number;
+	user: CommentUser;
+	replies: CommentReplies[];
+}
