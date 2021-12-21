@@ -19,7 +19,8 @@
         w-5/6
         mx-auto
         min-h-xs
-      ">
+      "
+>
 	{#each categories as category}
 		<div class="flex rounded item-center">
 			<span class="bg-job-cyan-200 text-job-cyan-500 py-1 px-2 font-bold">{category}</span>

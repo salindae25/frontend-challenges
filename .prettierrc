@@ -2,7 +2,7 @@
 	"useTabs": true,
 	"singleQuote": true,
 	"trailingComma": "none",
-	"printWidth": 700,
+	"printWidth": 400,
 	"svelteSortOrder": "options-styles-scripts-markup",
 	"svelteStrictMode": true,
 	"svelteBracketNewLine": false,

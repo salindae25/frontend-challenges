@@ -20,7 +20,16 @@
 		<h2 class="text-3xl font-bold uppercase">Challenges</h2>
 		<div class="flex flex-wrap gap-4">
 			<Challenge />
-			<Challenge />
+			<Challenge imageUrl="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/i8zblmqsbqixz1tbhc0v.jpg" link="/comment">
+				<div slot="title">Interactive comments section</div>
+				<sapn slot="tech" class="flex gap-3"><span>HTML</span><span> Tailwindcss</span><span> Svelte</span><span> Css</span><span>FetchAPI</span></sapn>
+				<div slot="description">
+					<p class=" capitalize">
+						tailwind for styling. comments arranged in hierarchical order
+						<a href="https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9" target="" class="text-blue-600 font-medium  hover:underline"> for more info.</a>
+					</p>
+				</div>
+			</Challenge>
 		</div>
 	</div>
 </section>
