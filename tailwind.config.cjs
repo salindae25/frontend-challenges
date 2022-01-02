@@ -17,12 +17,19 @@ module.exports = {
 				'comment-gray-blue-600': 'hsl(212, 24%, 26%)',
 				'comment-gray-blue-500': 'hsl(211, 10%, 45%)',
 				'comment-gray-blue-300': ' hsl(223, 19%, 93%)',
-				'comment-gray-blue-200': ' hsl(228, 33%, 97%)'
+				'comment-gray-blue-200': ' hsl(228, 33%, 97%)',
+				'e-comm-orange': 'hsl(26, 100%, 55%)',
+				'e-comm-orange-100': 'hsl(25, 100%, 94%)',
+				'e-comm-gray-blue-100': 'hsl(223, 64%, 98%)',
+				'e-comm-gray-blue-400': 'hsl(220, 14%, 75%)',
+				'e-comm-gray-blue-600': 'hsl(219, 9%, 45%)',
+				'e-comm-gray-blue-800': 'hsl(220, 13%, 13%)'
 			}
 		},
 		fontFamily: {
 			'job-font': ["'Spartan'"],
-			'comment-font': ["'Rubik'", 'serif-sans']
+			'comment-font': ["'Rubik'", 'serif-sans'],
+			'e-comm-font': ["'Kumbh Sans'", 'serif-sans']
 		}
 	},
 

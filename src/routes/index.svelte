@@ -30,6 +30,16 @@
 					</p>
 				</div>
 			</Challenge>
+			<Challenge imageUrl="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" link="/e-comm">
+				<div slot="title">E-commerce product page</div>
+				<sapn slot="tech" class="flex gap-3"><span>HTML</span><span> Tailwindcss</span><span> Svelte</span><span> Css</span><span>FetchAPI</span></sapn>
+				<div slot="description">
+					<p class=" capitalize">
+						tailwind for styling used with Svelte. cart functionality and mobile gallery implemented.
+						<a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" target="" class="text-blue-600 font-medium  hover:underline"> for more info.</a>
+					</p>
+				</div>
+			</Challenge>
 		</div>
 	</div>
 </section>
